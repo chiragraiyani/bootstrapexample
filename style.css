@@ -1,0 +1,61 @@
+.hero-section{
+	background: #DAE2F8;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #D6A4A4, #DAE2F8);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #D6A4A4, #DAE2F8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+html{
+	background: lightgrey;
+}
+img{
+	width: 100%;
+}
+#header{
+	background-size: 50%;
+}
+
+
+.jumbotron{
+	
+	background-color: white;
+}
+.display-3{
+	font-size: 2.5rem;
+	width:100%;
+}
+.btn{
+	background-color:#e64e40;
+	border-color: transparent;
+}
+
+.mydiv1{
+	height: 150px;
+	background:url('https://d3ptyyxy2at9ui.cloudfront.net/logo-apple-4f4b7c.svg');
+	background-position: center;
+background-color: #f7f7f7;
+background-repeat: no-repeat;
+}
+.mydiv2{
+	height: 150px;
+	background:url('https://d3ptyyxy2at9ui.cloudfront.net/logo-starbucks-d6086a.svg');
+	background-position: center;
+    background-color: #f7f7f7;
+    background-repeat: no-repeat;
+}
+.mydiv3{
+	height: 150px;
+	background:url('https://d3ptyyxy2at9ui.cloudfront.net/logo-google-6b5ab6.svg');
+	background-position: center;
+    background-color: #f7f7f7;
+    background-repeat: no-repeat;
+}
+.mydiv4{
+	height: 150px;
+	background:url('https://d3ptyyxy2at9ui.cloudfront.net/logo-mit-d9a4f9.svg');
+	background-position: center;
+    background-color: #f7f7f7;
+    background-repeat: no-repeat;
+  }
+  #padding{
+  	padding-bottom:50px;
+  }
