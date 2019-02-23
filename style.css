@@ -1,3 +1,4 @@
+
 .hero-section{
 	background: #DAE2F8;  /* fallback for old browsers */
 	background: -webkit-linear-gradient(to right, #D6A4A4, #DAE2F8);  /* Chrome 10-25, Safari 5.1-6 */
@@ -59,3 +60,4 @@ background-repeat: no-repeat;
   #padding{
   	padding-bottom:50px;
   }
+
